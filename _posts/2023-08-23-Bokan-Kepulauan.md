@@ -6,15 +6,13 @@ tags:
   - Diving
 ---
 
-Bokan Kepulauan Sea Diving  
-======
-Bokan Kepulauan, Central Sulawesi — 2023
-------
+# Bokan Kepulauan Sea Diving  
+## Bokan Kepulauan, Central Sulawesi, 2023
 
-Immanuel Raynaldo *(M 2023 898 ATM)*  
-Gabriel Genigno Pranoto *(M 2022 891 ATM)*  
-Tio Patrick Wicaksono *(M 2022 897 ATM)*  
-Esyela Fransisca Artarumiris *()*
+*Immanuel Raynaldo (M 2023 898 ATM)*  
+*Gabriel Genigno Pranoto (M 2022 891 ATM)*  
+*Tio Patrick Wicaksono (M 2022 897 ATM)*  
+*Esyela Fransisca Artarumiris ()*
 
 “Bokan Kaleng-Kaleng”
 
@@ -33,7 +31,7 @@ After staying a night at the District Secretary's service house, we had to move 
 On our last day in Bokan Kepulauan, we decided to attend mass in Keak Village. In this village, all of the residents are Catholic and Christian, unlike Bungin Village, where the entire population is Muslim. This difference was noticeable in the pets we saw — shifting from mostly cats to dogs. Even though there was no permanent priest residing at the Church of Divine Mercy, the mass was conducted by a deacon. However, this did not diminish the spirit of the congregation, which was beautifully reflected in their heartfelt hymns and praises.
 
 Without realizing it, 12 days had passed. The bond we built with the people of Banggai Laut will remain a precious and unforgettable memory for us. We are grateful for all the assistance and knowledge that was shared with us, especially to Fajar’s family — Pak Fajar, Bu Fajar, and Fajar himself — for becoming our closest family during our time there.
------
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="images/Bokan-Kepulauan/1.jpg" alt="Photo 1" width="250" />
   <img src="images/Bokan-Kepulauan/2.jpg" alt="Photo 2" width="250" />
