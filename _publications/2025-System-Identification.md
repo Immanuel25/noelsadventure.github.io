@@ -1,7 +1,7 @@
 ---
 title: "System Identification and Cascade PID Controller Design of a Spinbath Circulation Process"
 collection: publications
-category: on-going
+category: manuscript
 permalink: /publication/2025-System-Identification
 excerpt: 'This paper develop a framework for system modeling and control design to improve the robustness and automation level of a spinbath circulation system. '
 date: 2025-12-31

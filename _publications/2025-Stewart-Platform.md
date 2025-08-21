@@ -1,7 +1,7 @@
 ---
 title: "End-to-End Design and Validation of a Low-Cost Stewart Robotic Platform with Nonlinear Control and Estimation"
 collection: publications
-category: on-going
+category: manuscript
 permalink: /publication/2025-Stewart-Platform
 excerpt: 'This paper presents the design, construction, and control of a low-cost Stewart platform prototype, addressing the lack of affordable options for research and education compared to expensive commercial systems.'
 date: 2025-12-31

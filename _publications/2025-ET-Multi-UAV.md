@@ -1,7 +1,7 @@
 ---
 title: "An Event-Triggered Multi-UAV Coordination Scheme for Simultaneous Tracking and Pursuit of Multiple Moving Targets"
 collection: publications
-category: on-going
+category: manuscript
 permalink: /publication/2025-ET-Multi-UAV
 excerpt: 'This paper proposes event-triggered cooperative localization and pursuit control methods of multiple unmanned aerial vehicles (UAVs) for the purpose of tracking and monitoring multiple moving target vessels in a maritime patrol scenario.'
 date: 2025-12-31

@@ -1,7 +1,7 @@
 ---
 title: "Design and Experimental Validation of Closed-Form CBF-Based Safe Control for Stewart Platform Under Multiple Constraints"
 collection: publications
-category: on-going
+category: manuscript
 permalink: /publication/2025-Stewart-Platform-CBF
 excerpt: 'This paper presents a closed-form solution of a Control Barrier Function (CBF) formulation for ensuring safety in the operation of a Stewart platform prototype.'
 date: 2025-12-31
