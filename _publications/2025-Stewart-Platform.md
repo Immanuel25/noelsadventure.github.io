@@ -2,13 +2,13 @@
 title: "End-to-End Design and Validation of a Low-Cost Stewart Robotic Platform with Nonlinear Control and Estimation"
 collection: on-going
 category: manuscripts
-permalink: /publication/2025 Stewart-Platform
+permalink: /publication/2025-Stewart-Platform
 excerpt: 'This paper presents the design, construction, and control of a low-cost Stewart platform prototype, addressing the lack of affordable options for research and education compared to expensive commercial systems.'
 date: 2025-12-31
 venue: 'Unknown'
-paperurl: 'http://Immanuel25.github.io/files/2025 Stewart-Platform.pdf'
+paperurl: 'http://Immanuel25.github.io/files/2025-Stewart-Platform.pdf'
 # slidesurl: 'https://ieeexplore.ieee.org/abstract/document/10824351'
-# bibtexurl: 'http://Immanuel25.github.io/files/2025 Stewart-Platform.bib'
+# bibtexurl: 'http://Immanuel25.github.io/files/2025-Stewart-Platform.bib'
 ---
 This paper presents the design, construction, and control of a low-cost Stewart platform prototype, addressing the lack of affordable options for research and education compared to expensive commercial systems.
 The platform achieves full six-DOF motion using six linear actuators connecting a moving platform to a fixed base.
