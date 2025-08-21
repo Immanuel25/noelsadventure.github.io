@@ -22,7 +22,7 @@ repository               : "Immanuel25/noelsadventure.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "podium.jpg"
   name             : "Immanuel"
   pronouns         : # example: "she/her"  
   bio              : "A passionate tinkerer and engineer who loves to design, build, and play with robots."
