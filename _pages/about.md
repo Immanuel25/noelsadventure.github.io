@@ -10,6 +10,9 @@ redirect_from:
 
 ![Editing a Markdown file for a talk](/images/profile.jpg){: .align-right width="300px"}
 🧑🏼‍🎓 I'm a PhD student at the University of Houston.
+
 🔬 My research interests are robotics and control system.
+
 📚 I'm currently working as research assistant in the field of electrical and computer engineering.
+
 🚞 I'm also interested in exploring nature, travelling, and FPV drone.
