@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![My Face](/images/spongebob.jpg){: .align-right width="300px"}
+![My Face](/images/spongebob.png){: .align-right width="300px"}
 🧑🏼‍🎓 I'm a PhD student at the University of Houston.
 
 🔬 My research interests are robotics and control system.
