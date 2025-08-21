@@ -34,9 +34,9 @@ On our last day in Bokan Kepulauan, we decided to attend mass in Keak Village. I
 
 Without realizing it, 12 days had passed. The bond we built with the people of Banggai Laut will remain a precious and unforgettable memory for us. We are grateful for all the assistance and knowledge that was shared with us, especially to Fajar’s family — Pak Fajar, Bu Fajar, and Fajar himself — for becoming our closest family during our time there.
 -----
-<!-- <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="images/Bokan-Kepulauan/1.jpg" alt="Photo 1" width="250" />
   <img src="images/Bokan-Kepulauan/2.jpg" alt="Photo 2" width="250" />
   <img src="images/Bokan-Kepulauan/3.jpg" alt="Photo 3" width="250" />
   <img src="images/Bokan-Kepulauan/4.jpg" alt="Photo 4" width="250" />
-</div> --> -->
+</div>
