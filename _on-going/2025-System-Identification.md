@@ -6,9 +6,9 @@ permalink: /publication/2025-System-Identification
 excerpt: 'This paper develop a framework for system modeling and control design to improve the robustness and automation level of a spinbath circulation system. '
 date: 2025-12-31
 venue: 'Elsevier'
-paperurl: 'http://Immanuel25.github.io/files/2025-System-Identification.pdf'
+paperurl: 'http://Immanuel25.github.io/noelsadventure.github.io/files/2025-System-Identification.pdf'
 # slidesurl: 'https://ieeexplore.ieee.org/abstract/document/10824351'
-# bibtexurl: 'http://Immanuel25.github.io/files/2025-System-Identification.bib'
+# bibtexurl: 'http://Immanuel25.github.io/noelsadventure.github.io/files/2025-System-Identification.bib'
 ---
 This paper develop a framework for system modeling and control design to improve the robustness and automation level of a spinbath circulation system. 
 The system modeling use grey-box modeling method, each system component is initially modeled using a first-principles approach, then the resulting equations are linearized and approximated as transfer function. 
