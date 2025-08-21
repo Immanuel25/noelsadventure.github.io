@@ -6,6 +6,9 @@ tags:
   - Diving
 ---
 
+
+3 new guy training to survive in the harsh blue sea at Sekotong island.
+
 # Bokan Kepulauan Sea Diving  
 ## Bokan Kepulauan, Central Sulawesi, 2023
 
