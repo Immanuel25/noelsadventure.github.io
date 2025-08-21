@@ -4,7 +4,6 @@ date: 2023-08-23
 permalink: /posts/2023/08/Bokan-Kepulauan/
 tags:
   - Diving
-
 ---
 
 Bokan Kepulauan Sea Diving  
